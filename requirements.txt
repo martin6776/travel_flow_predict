@@ -1,0 +1,14 @@
+beautifulsoup4==4.10.0
+captum==0.4.1
+keras==2.7.0
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.2.4
+PyMySQL==1.0.2
+requests==2.26.0
+scikit_learn==1.0.2
+SQLAlchemy==1.4.7
+tensorflow==2.7.0
+torch==1.10.1
+tqdm==4.59.0
+workalendar==16.2.0
