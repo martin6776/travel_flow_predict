@@ -13,7 +13,7 @@
 
 
 ## 3. Model Structure
-- TorchLSTM(
+TorchLSTM(
 
 
   (lstm): LSTM(17, 32, num_layers=2, batch_first=True)
