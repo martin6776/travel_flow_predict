@@ -14,9 +14,17 @@
 
 ## 3. Model Structure
 - TorchLSTM(
+
+
   (lstm): LSTM(17, 32, num_layers=2, batch_first=True)
+  
+  
   (fc): Linear(in_features=160, out_features=1, bias=True)
+  
+  
   (sigmoid): ReLU()
+  
+  
 )
 
 
