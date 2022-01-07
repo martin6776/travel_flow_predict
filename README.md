@@ -29,7 +29,7 @@ TorchLSTM(
 
 
 ## 4. Result
-模型评价指标：rmse 510.74654912557213, mae 419.77051829028665, r2 0.999701529812395
+Model evaluation index：rmse 510.74654912557213, mae 419.77051829028665, r2 0.999701529812395
 ![avatar](/evaluation/eval_result_torch.png)
 
 ![avatar](/evaluation/feature_importance.png)
