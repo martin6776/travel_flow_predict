@@ -18,3 +18,5 @@
 
 ## 4. Result
 ![avatar](/evaluation/eval_result_torch.png)
+
+![avatar](/evaluation/feature_importance.png)
